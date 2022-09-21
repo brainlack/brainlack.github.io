@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://media.discordapp.net/attachments/968399671661850634/1022216059190771805/critical-thinking_1.png?width=432&height=432" alt="Project logo"></a>
+ <img width=200px height=200px src="https://ibb.co/br53Qb9" alt="Project logo"></a>
 </p>
 
 <h3 align="center">BrainLack</h3>
