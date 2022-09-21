@@ -7,10 +7,12 @@
 
 <div align="center">
 
-  [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
-  [![GitHub Issues](https://img.shields.io/github/issues/brainlack/brainlack.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/brainlack/brainlack.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-  [![License](https://img.shields.io/badge/license-AGPU-red.svg)](/LICENSE)
+<div align="center" dir="auto">
+<p dir="auto"><a href="/brainlack/brainlack.github.io/blob/main"><img src="https://camo.githubusercontent.com/57912f2a2adcce8983823d6de33da48656f844aebc1619b2b15c553b4b2d842e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7374617475732d6163746976652d737563636573732e737667" alt="Status" data-canonical-src="https://img.shields.io/badge/status-active-success.svg" style="max-width: 100%;"></a>
+<a href="https://github.com/kylelobo/The-Documentation-Compendium/issues"><img src="https://camo.githubusercontent.com/d8045eb04b17b11fdaabd3ffb2fe651921a9e47148c0b869a68de42ab980fc6c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f627261696e6c61636b2f627261696e6c61636b2e737667" alt="GitHub Issues" data-canonical-src="https://img.shields.io/github/issues/brainlack/brainlack.svg" style="max-width: 100%;"></a>
+<a href="https://github.com/kylelobo/The-Documentation-Compendium/pulls"><img src="https://camo.githubusercontent.com/b50a1404d336ca8a389a7390982f2c835f7c7d79cb1be9b93d66379d7febe887/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d70722f627261696e6c61636b2f627261696e6c61636b2e737667" alt="GitHub Pull Requests" data-canonical-src="https://img.shields.io/github/issues-pr/brainlack/brainlack.svg" style="max-width: 100%;"></a>
+<a href="/brainlack/brainlack.github.io/blob/main/LICENSE"><img src="https://camo.githubusercontent.com/1a7104827573098bd4000cadcf712cb3b2ef61945d901d734fe8ba1a47225b29/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d414750552d7265642e737667" alt="License" data-canonical-src="https://img.shields.io/badge/license-AGPU-red.svg" style="max-width: 100%;"></a></p>
+</div>
 
 </div>
 
