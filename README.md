@@ -26,7 +26,6 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Installation](#installation)
-- [Learn](https://brainlack.github.io/learn)
 - [Running your first program](#running)
 - [Usage](#usage)
 - [Built Using](#built_using)
@@ -40,8 +39,8 @@ In order to start using this lang, you must learn 2 things;
 * You must learn javascript
 * You must also learn the syntax for the language
 
-## 🔧 Installation <a name = "installation"></a>
-Add `<script type="text/javascript" src="https://bralanck-lang.paramchosting.repl.co/compiler.js"></script>` after the first `<body>` tag
+## 💾 Installation <a name = "installation"></a>
+Add `<script type="text/javascript" src="https://raw.githubusercontent.com/brainlack/brainlack/main/compiler.js"></script>` after the first `<body>` tag
 
 ## 🎈 Usage <a name="usage"></a>
 
