@@ -55,7 +55,7 @@ Add additional notes about how to deploy this on a live system.
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@ClaytonTDM](https://github.com/ClaytonTDM) - All the work
-- [@ahino6942](https://github.com/ahino6942)
+- [@ahino6942](https://github.com/ahino6942) - The Docs
 
 See also the list of [contributors](https://github.com/brainlack/brainlack/contributors) who participated in this project.
 
