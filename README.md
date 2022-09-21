@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://ibb.co/br53Qb9" alt="Project logo"></a>
+ <img width=200px height=200px src="https://cdn.clickette.net/r/brainlack.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">BrainLack</h3>
