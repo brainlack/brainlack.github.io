@@ -40,9 +40,7 @@ In order to start using this lang, you must learn 2 things;
 * You must also learn the syntax for the language
 
 ## 💾 Installation <a name = "installation"></a>
-Add `<script type="text/javascript" src="https://brainlack-hosting.claytontdm.repl.co/compiler.js"></script>` after the first `<body>` tag
-
-or head to the [interpreter](https://brainlack.github.io/interpreter)
+Add `<script type="text/javascript" src="https://brainlack-hosting.claytontdm.repl.co/compiler.js"></script>` after the first `<body>` tag or head to the [interpreter](https://brainlack.github.io/interpreter)
 
 From here, you want to open debug tools aka the console.
 
