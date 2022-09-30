@@ -46,7 +46,7 @@ From here, you want to open debug tools aka the console.
 
 ## 🎈 Usage <a name="usage"></a>
 
-Run `bl_parse('brainlack code goes here');` using JS. Or simply use the example.html file in the official github repo.
+Run `bl_parse('brainlack code goes here');` using JS. Or simply use the [`example.html`](https://github.com/brainlack/brainlack/blob/main/example.html) file.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [JavaScript](https://www.javascript.com/)
