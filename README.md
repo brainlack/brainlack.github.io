@@ -5,7 +5,6 @@ Hello, we are an organization run by developers that are trying to make a differ
 Like said above, we are an organization run by developers that are trying to make a difference in the community. Every month, we release a form in which developers can apply to join this organization. Whether they are beginner devs, or very expert devs, we make sure everyone stays in this one little community.
 
 ### Our partners
-* [Coding Empire](https://discord.gg/cK6xjb5bqN)
 * [Planet of Programming](https://discord.gg/TmdMkAVqyp)
 * [ParaDuck Host](https://paraduckhost.com)
 
