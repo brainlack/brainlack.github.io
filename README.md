@@ -22,6 +22,9 @@ There a variety of perks for joining this org. Some of these include:
 * Create events within the public community
 * Contribute to our projects
 
+### I'm interested! How do I join?
+You can join by filling out this [form](https://forms.gle/bWXxCHsG93qEgCMz6)
+
 ### Our goals
 * Make sure beginners learn that coding is an art.
 * Making sure you have the most out of our VPNs, IDEs and our other stuff.
