@@ -8,6 +8,7 @@ Like said above, we are an organization run by developers that are trying to mak
 * [Coding Empire](https://discord.gg/cK6xjb5bqN)
 * [Planet of Programming](https://discord.gg/TmdMkAVqyp)
 * [ParaDuck Host](https://paraduckhost.com)
+* [Zecono Support](https://discord.gg/5krQtRWET8)
 
 ### Why join us?
 We help make a difference in this community of devs. We also have very fun times together as a community. We host events now and then just to enjoy ourselves a bit. Some of these events include:
